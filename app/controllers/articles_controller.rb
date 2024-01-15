@@ -1,7 +1,5 @@
-require "pry"
-
 class ArticlesController < ApplicationController
-  before_action :set_article, only: %i[ show edit update destroy ]
+  before_action :set_article, only: %i[ show edit update destroy update_read_status ]
 
   # GET /articles or /articles.json
   def index
@@ -22,7 +20,6 @@ class ArticlesController < ApplicationController
   end
 
   def update_read_status
-    @article = Article.find(params[:id])
     if @article.nil?
       render json: { error: 'Article not found' }, status: :not_found
       return

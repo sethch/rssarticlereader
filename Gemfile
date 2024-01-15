@@ -41,10 +41,6 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
-gem "httparty"
-gem "nokogiri"
-gem "pry"
-
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
@@ -69,3 +65,11 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Gems below this line were added after rails new
+
+# Make API requests
+gem "httparty"
+
+# Parse XML from API response
+gem "nokogiri"
