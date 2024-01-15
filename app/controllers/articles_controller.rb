@@ -4,6 +4,7 @@ class ArticlesController < ApplicationController
   # GET /articles or /articles.json
   def index
     @articles = Article.all
+    @show_read_articles = params[:showReadArticles] == 'true'
   end
 
   # GET /articles/1 or /articles/1.json

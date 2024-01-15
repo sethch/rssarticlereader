@@ -1,16 +1,54 @@
-<p style="color: green"><%= notice %></p>
-
 <h1>Articles</h1>
 
+<div class="form-check form-switch">
+  <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault" data-toggle="switch" <%= 'checked' if @show_read_articles %> onchange="toggleReadArticlesSwitch()">
+  <label class="form-check-label" for="flexSwitchCheckDefault">Show read articles</label>
+</div>
+
 <div id="articles">
-  <%#= link_to "Show this article", article %>
   <ul class="list-group">
-    <% @articles.each_with_index do |article, index| %>
-      <li class="list-group-item">
-        <%= render article %>
-      </li>
+    <% @articles.each do |article| %>
+      <% if @show_read_articles || article.read_status == false %>
+        <li class="list-group-item">
+          <%= render article %>
+        </li>
+      <% end %>
   <% end %>
   </ul>
 </div>
 
-<%#= link_to "New article", new_article_path %>
+<!-- This script tag is responsible for modifying the url param 'showReadArticles' -->
+<!-- This url param is responsible for filtering on whether an article is read or not -->
+<script>
+    function toggleReadArticlesSwitch() {
+        var showReadArticlesParam = getParameterByName('showReadArticles');
+        var showReadArticlesValue = showReadArticlesParam === 'true' ? 'false' : 'true';
+
+        // Modify the URL with the updated parameter value
+        var currentUrl = window.location.href;
+        var updatedUrl = updateQueryStringParameter(currentUrl, 'showReadArticles', showReadArticlesValue);
+
+        // Redirect to the updated URL
+        window.location.href = updatedUrl;
+    }
+
+    function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    function updateQueryStringParameter(uri, key, value) {
+        var re = new RegExp("([?&])" + key + "=.*?(&|$)", "i");
+        var separator = uri.indexOf('?') !== -1 ? "&" : "?";
+        if (uri.match(re)) {
+            return uri.replace(re, '$1' + key + "=" + value + '$2');
+        } else {
+            return uri + separator + key + "=" + value;
+        }
+    }
+</script>
