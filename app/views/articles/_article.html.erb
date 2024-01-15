@@ -1,0 +1,29 @@
+<div id="<%= dom_id article %>">
+  <div class="card">
+    <div class="card-body">
+      <div>
+        <div class="d-flex justify-content-between">
+          <h5 class="card-title"><%= sanitize(article.title) %></h5>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" onchange="updateReadStatus(<%= article.id %>, this.checked)" id="markAsRead<%= article.id %>" value="<%= article.id %>" <%= article.read_status ? 'checked' : '' %>>
+            <label class="form-check-label" for="markAsRead<%= article.id %>">
+              Mark as Read
+            </label>
+          </div>
+        </div>
+        <p class="card-text"><strong>Author:</strong> <%= sanitize(article.creator) %></p>
+        <p class="card-text"><strong>Date:</strong> <%= sanitize(article.date&.strftime("%B %d, %Y")) %></p>
+        <div>
+          <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<%= article.id %>" aria-expanded="false" aria-controls="collapseExample">
+            Show Article Content
+          </button>
+          <div class="collapse" id="collapse<%= article.id %>">
+            <div class="card card-body">
+              <p class="card-text"><%= sanitize(article.description, tags: %w(strong em b i u div a p img)) %></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
+
+  <channel rdf:about="https://slashdot.org/">
+    <title>Slashdot</title>
+    <link>https://slashdot.org/</link>
+    <description>News for nerds, stuff that matters</description>
+    <dc:language>en-us</dc:language>
+    <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+    <dc:date>2024-01-15T17:00:23+00:00</dc:date>
+    <dc:publisher>Dice</dc:publisher>
+    <dc:creator>help@slashdot.org</dc:creator>
+    <dc:subject>Technology</dc:subject>
+    <syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+    <syn:updateFrequency>1</syn:updateFrequency>
+    <syn:updatePeriod>hourly</syn:updatePeriod>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="https://it.slashdot.org/story/24/01/15/1613233/microsoft-is-working-on-a-copilot-pro-subscription?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://news.slashdot.org/story/24/01/15/1555226/trader-loses-57-million-to-slippage-in-memecoin-trade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://science.slashdot.org/story/24/01/15/158212/urban-youth-most-isolated-in-largest-cities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://yro.slashdot.org/story/24/01/15/1452217/reddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://slashdot.org/story/24/01/15/146220/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://slashdot.org/story/24/01/15/054237/can-the-ai-industry-continue-to-avoid-paying-for-the-content-theyre-using?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://mobile.slashdot.org/story/24/01/15/0348222/why-a-school-principal-switched-from-smartphones-to-flip-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://news.slashdot.org/story/24/01/15/0218245/can-pumping-co2-into-californias-oil-fields-help-stop-global-warming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://hardware.slashdot.org/story/24/01/15/0124236/the-global-project-to-make-a-general-robotic-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://science.slashdot.org/story/24/01/15/0028232/scientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://slashdot.org/story/24/01/14/0145246/ask-slashdot-could-a-form-of-watermarking-prevent-ai-deep-faking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://yro.slashdot.org/story/24/01/14/2018257/python-software-foundation-says-eus-cyber-resilience-act-includes-wins-for-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://it.slashdot.org/story/24/01/14/1735209/california-tech-companys-return-to-office-video-mocked-as-bizarre-cringe-worthy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+        <rdf:li rdf:resource="https://science.slashdot.org/story/24/01/14/0435238/seeing-blue-at-night-may-not-be-whats-keeping-you-up-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
+      </rdf:Seq>
+    </items>
+    <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif"/>
+    <textinput rdf:resource="https://slashdot.org/search.pl"/>
+  </channel>
+  <image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+    <title>Slashdot</title>
+    <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+    <link>https://slashdot.org/</link>
+  </image>
+  <item rdf:about="https://it.slashdot.org/story/24/01/15/1613233/microsoft-is-working-on-a-copilot-pro-subscription?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Microsoft is Working on a Copilot Pro Subscription</title>
+    <link>https://it.slashdot.org/story/24/01/15/1613233/microsoft-is-working-on-a-copilot-pro-subscription?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Android Authority combed through the code of Edge browser (for Android) to find what may be hints for things to come to Copilot: Microsoft has offered its Copilot AI service (formerly Bing Chat) on mobile devices for a while. The service has long been free to use, allowing you to speak to a chatbot, generate AI images, and more. Now, recent Edge browser updates for Android hint at a so-called Copilot Pro option. [...] But what should you expect from this Pro tier? Fortunately, a string also mentions Copilot Pro perks. This includes access to the latest AI models, priority access for quicker answers, and "high-quality" image generation.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+is+Working+on+a+Copilot+Pro+Subscription%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F01%2F15%2F1613233%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F01%2F15%2F1613233%2Fmicrosoft-is-working-on-a-copilot-pro-subscription%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/24/01/15/1613233/microsoft-is-working-on-a-copilot-pro-subscription?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23194049&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>msmash</dc:creator>
+    <dc:date>2024-01-15T16:40:00+00:00</dc:date>
+    <dc:subject>microsoft</dc:subject>
+    <slash:department>shape-of-things-to-come</slash:department>
+    <slash:section>it</slash:section>
+    <slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+  </item>
+  <item rdf:about="https://news.slashdot.org/story/24/01/15/1555226/trader-loses-57-million-to-slippage-in-memecoin-trade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Trader Loses $5.7 Million To Slippage in Memecoin Trade</title>
+    <link>https://news.slashdot.org/story/24/01/15/1555226/trader-loses-57-million-to-slippage-in-memecoin-trade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Web3 is Going Great: A trader looking to buy $9 million of a recently popular Solana memecoin, dogwifhat (WIF), lost $5.7 million of their funds to slippage as they placed a massive order in a pool with relatively low liquidity. $5.7 million of their funds were lost to "slippage" -- the discrepancy in price that can occur when a trade is so large or a market is so illiquid that the trade itself impacts the asset price.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Trader+Loses+%245.7+Million+To+Slippage+in+Memecoin+Trade%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F01%2F15%2F1555226%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F01%2F15%2F1555226%2Ftrader-loses-57-million-to-slippage-in-memecoin-trade%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/24/01/15/1555226/trader-loses-57-million-to-slippage-in-memecoin-trade?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23194037&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>msmash</dc:creator>
+    <dc:date>2024-01-15T16:00:00+00:00</dc:date>
+    <dc:subject>business</dc:subject>
+    <slash:department>what-in-the-world</slash:department>
+    <slash:section>news</slash:section>
+    <slash:comments>19</slash:comments>
+    <slash:hit_parade>19,19,18,16,5,2,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://science.slashdot.org/story/24/01/15/158212/urban-youth-most-isolated-in-largest-cities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Urban Youth Most Isolated in Largest Cities</title>
+    <link>https://science.slashdot.org/story/24/01/15/158212/urban-youth-most-isolated-in-largest-cities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty. Abstract from a paper: We find that students in major metropolitan areas experience more racial and income isolation, spend more time at home, stay closer to home when they do leave, and visit fewer restaurants and retail establishments than adults. Looking across levels of income, students from higher-income families visit more amenities, spend more time outside of the home, and explore more unique locations than low-income students. Combining a number of measures into an index of urban mobility, we find that, conditional on income, urban mobility is positively correlated with home neighborhood characteristics such as distance from the urban core, car ownership and social capital.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Urban+Youth+Most+Isolated+in+Largest+Cities%3A+https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F15%2F158212%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F15%2F158212%2Furban-youth-most-isolated-in-largest-cities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/24/01/15/158212/urban-youth-most-isolated-in-largest-cities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193971&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>msmash</dc:creator>
+    <dc:date>2024-01-15T15:20:00+00:00</dc:date>
+    <dc:subject>science</dc:subject>
+    <slash:department>closer-look</slash:department>
+    <slash:section>science</slash:section>
+    <slash:comments>41</slash:comments>
+    <slash:hit_parade>41,41,37,32,3,1,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://yro.slashdot.org/story/24/01/15/1452217/reddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Reddit Must Share IP Addresses of Piracy-Discussing Users, Film Studios Say</title>
+    <link>https://yro.slashdot.org/story/24/01/15/1452217/reddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>For the third time in under a year, film studios are pressing Reddit to reveal users allegedly discussing piracy, despite two prior failed attempts. Studios including Voltage Holdings and Screen Media have filed fresh motions to compel Reddit to comply with a subpoena seeking IP addresses and logs of six Redditors, claiming the information is needed for copyright suits against internet provider Frontier Communications.
+
+      The same federal judge previously denied the studios' bid to unmask Reddit users, citing First Amendment protections. However, the studios now argue IP addresses fall outside privacy rights. Reddit maintains the new subpoena fails to meet the bar for identifying anonymous online speakers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Reddit+Must+Share+IP+Addresses+of+Piracy-Discussing+Users%2C+Film+Studios+Say%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F01%2F15%2F1452217%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F01%2F15%2F1452217%2Freddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/24/01/15/1452217/reddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193949&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>msmash</dc:creator>
+    <dc:date>2024-01-15T14:51:00+00:00</dc:date>
+    <dc:subject>piracy</dc:subject>
+    <slash:department>pushing-the-limits</slash:department>
+    <slash:section>yro</slash:section>
+    <slash:comments>18</slash:comments>
+    <slash:hit_parade>18,18,16,15,4,1,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://slashdot.org/story/24/01/15/146220/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Lazy Use of AI Leads To Amazon Products Called 'I Cannot Fulfill That Request'</title>
+    <link>https://slashdot.org/story/24/01/15/146220/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Amazon users are at this point used to search results filled with products that are fraudulent, scams, or quite literally garbage. These days, though, they also may have to pick through obviously shady products, with names like "I'm sorry but I cannot fulfill this request it goes against OpenAI use policy." From a report: As of press time, some version of that telltale OpenAI error message appears in Amazon products ranging from lawn chairs to office furniture to Chinese religious tracts. A few similarly named products that were available as of this morning have been taken down as word of the listings spreads across social media. Other Amazon product names don't mention OpenAI specifically but feature apparent AI-related error messages, such as "Sorry but I can't generate a response to that request" or "Sorry but I can't provide the information you're looking for," (available in a variety of colors). Sometimes, the product names even highlight the specific reason why the apparent AI-generation request failed, noting that OpenAI can't provide content that "requires using trademarked brand names" or "promotes a specific religious institution" or, in one case, "encourage unethical behavior."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Lazy+Use+of+AI+Leads+To+Amazon+Products+Called+'I+Cannot+Fulfill+That+Request'%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F15%2F146220%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F15%2F146220%2Flazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/24/01/15/146220/lazy-use-of-ai-leads-to-amazon-products-called-i-cannot-fulfill-that-request?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>msmash</dc:creator>
+    <dc:date>2024-01-15T14:06:00+00:00</dc:date>
+    <dc:subject>ai</dc:subject>
+    <slash:department>"customer-obsession"</slash:department>
+    <slash:section>slashdot</slash:section>
+    <slash:comments>26</slash:comments>
+    <slash:hit_parade>26,26,25,20,6,2,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://slashdot.org/story/24/01/15/054237/can-the-ai-industry-continue-to-avoid-paying-for-the-content-theyre-using?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Can The AI Industry Continue To Avoid Paying for the Content They're Using?</title>
+    <link>https://slashdot.org/story/24/01/15/054237/can-the-ai-industry-continue-to-avoid-paying-for-the-content-theyre-using?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Last year Marc Andreessen's firm "argued that AI companies would go broke if they had to pay copyright royalties or licensing fees," notes a Los Angeles Times technology columnist.
+
+
+      But are these powerful companies doing even more to ensure they're not billed for their training data?
+
+      Just this week, British media outlets reported that OpenAI has made the same case, seeking an exemption from copyright rules in England, claiming that the company simply couldn't operate without ingesting copyrighted materials.... The AI companies also argue what they're doing falls under the legal doctrine of fair use &amp;mdash; probably the strongest argument they've got &amp;mdash; because it's transformative. This argument helped Google win in court against the big book publishers when it was copying books into its massive Google Books database, and defeat claims that YouTube was profiting by allowing users to host and promulgate unlicensed material. Next, the AI companies argue that copyright-violating outputs like those uncovered by AI expert Gary Marcus, film industry veteran Reid Southern and the New York Times are rare or are bugs that are going to be patched.
+
+      But finally, William Fitzgerald, a partner at the Worker Agency and former member of the public policy team at Google, predicts Google will try to line up supportive groups to tell lawmakers artists support AI:
+
+      Fitzgerald also sees Google's fingerprints on Creative Commons' embrace of the argument that AI art is fair use, as Google is a major funder of the organization. "It's worrisome to see Google deploy the same lobbying tactics they've developed over the years to ensure workers don't get paid fairly for their labor," Fitzgerald said. And OpenAI is close behind. It is not only taking a similar approach to heading off copyright complaints as Google, but it's also hiring the same people: It hired Fred Von Lohmann, Google's former director of copyright policy, as its top copyright lawyer....
+
+      [Marcus says] "There's an obvious alternative here &amp;mdash; OpenAI's saying that we need all this or we can't build AI &amp;mdash; but they could pay for it!" We want a world with artists and with writers, after all, he adds, one that rewards artistic work &amp;mdash; not one where all the money goes to the top because a handful of tech companies won a digital land grab. "It's up to workers everywhere to see this for what it is, get organized, educate lawmakers and fight to get paid fairly for their labor," Fitzgerald says.
+
+      "Because if they don't, Google and OpenAI will continue to profit from other people's labor and content for a long time to come."
+      &lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Can+The+AI+Industry+Continue+To+Avoid+Paying+for+the+Content+They're+Using%3F%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F15%2F054237%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F15%2F054237%2Fcan-the-ai-industry-continue-to-avoid-paying-for-the-content-theyre-using%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/24/01/15/054237/can-the-ai-industry-continue-to-avoid-paying-for-the-content-theyre-using?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193617&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-15T12:34:00+00:00</dc:date>
+    <dc:subject>ai</dc:subject>
+    <slash:department>what-AI-owes</slash:department>
+    <slash:section>slashdot</slash:section>
+    <slash:comments>95</slash:comments>
+    <slash:hit_parade>95,95,94,91,16,7,4</slash:hit_parade>
+  </item>
+  <item rdf:about="https://mobile.slashdot.org/story/24/01/15/0348222/why-a-school-principal-switched-from-smartphones-to-flip-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Why a School Principal Switched from Smartphones to Flip Phones</title>
+    <link>https://mobile.slashdot.org/story/24/01/15/0348222/why-a-school-principal-switched-from-smartphones-to-flip-phones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Last week's story about a reporter switching to a flip phone was just part of a trend, argues a Chicago school principal who did the same thing.
+
+      "I do not feel punished. I feel free."
+
+
+      Teachers said they could sense kids' phones distracting them from inside their pockets. We banned phones outright, equipping classrooms with lockboxes that the kids call "cellphone prisons." It's not perfect, but it's better. A teacher said, "It's like we have the children back...."
+
+      And what about adults? Ninety-five percent of young adults now keep their phones nearby every waking hour, according to a Gallup survey; 92% do when they sleep. We look at our phones an average of 352 times a day, according to one recent survey, almost four times more often than before COVID. We want children off their phones because we want them to be present, but children need our presence, too. When we are on our phones, we are somewhere else. As the title of one study notes, "The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity...."
+
+
+      I made my screen gray. I deleted social media. I bought a lockbox and said I would keep my phone there. I didn't... Every year, I see kids get phones and disappear into them. I don't want that to happen to mine. I don't want that to have happened to me. So I quit. And now I have this flip phone.
+
+      What I don't have is Facetime or Instagram. I can't use Grubhub or Lyft or the Starbucks Mobile App. I don't even have a browser. I drove to a student's quincea&amp;ntilde;era, and I had to print out directions as if it were 2002... I can still make calls, though people are startled to get one. I can still text. And I can still see your pictures, though I can "heart" them only in my heart. The magic of smartphones is that they eliminate friction: touchscreens, auto-playing videos, endless scrolling. My phone isn't smooth.
+
+      That breaks the spell. Turning off my smartphone didn't fix all my problems. But I do notice my brain moving more deliberately, shifting less abruptly between moods. I am bored more, sure &amp;mdash; the days feel longer &amp;mdash; but I am deciding that's a good thing. And I am still connected to the people I love; they just can't text me TikToks...
+
+      I'm not doing this to change the culture. I'm doing this because I don't want my sons to remember me lost in my phone.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Why+a+School+Principal+Switched+from+Smartphones+to+Flip+Phones%3A+https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F24%2F01%2F15%2F0348222%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F24%2F01%2F15%2F0348222%2Fwhy-a-school-principal-switched-from-smartphones-to-flip-phones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/24/01/15/0348222/why-a-school-principal-switched-from-smartphones-to-flip-phones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193561&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-15T08:34:00+00:00</dc:date>
+    <dc:subject>cellphones</dc:subject>
+    <slash:department>phoning-it-in</slash:department>
+    <slash:section>mobile</slash:section>
+    <slash:comments>61</slash:comments>
+    <slash:hit_parade>61,57,55,49,19,13,7</slash:hit_parade>
+  </item>
+  <item rdf:about="https://news.slashdot.org/story/24/01/15/0218245/can-pumping-co2-into-californias-oil-fields-help-stop-global-warming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Can Pumping CO2 Into California's Oil Fields Help Stop Global Warming?</title>
+    <link>https://news.slashdot.org/story/24/01/15/0218245/can-pumping-co2-into-californias-oil-fields-help-stop-global-warming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>America's Environmental Protection Agency "has signed off on a California oil company's plans to permanently store carbon emissions deep underground to combat global warming," reports the Los Angeles Times:
+
+      California Resources Corp., the state's largest oil and gas company, applied for permission to send 1.46 million metric tons of carbon dioxide each year into the Elk Hills oil field, a depleted oil reservoir about 25 miles outside of downtown Bakersfield. The emissions would be collected from several industrial sources nearby, compressed into a liquid-like state and injected into porous rock more than one mile underground.
+
+      Although this technique has never been performed on a large scale in California, the state's climate plan calls for these operations to be widely deployed across the Central Valley to reduce carbon emissions from industrial facilities. The EPA issued a draft permit for the California Resources Corp. project, which is poised to be finalized in March following public comments. As California transitions away from oil production, a new business model for fossil fuel companies has emerged: carbon management. Oil companies have heavily invested in transforming their vast network of exhausted oil reservoirs into a long-term storage sites for planet-warming gases, including California Resources Corp., the largest nongovernmental owner of mineral rights in California...
+
+      [Environmentalists] say that the transportation and injection of CO2 &amp;mdash; an asphyxiating gas that displaces oxygen &amp;mdash; could lead to dangerous leaks. Nationwide, there have been at least 25 carbon dioxide pipeline leaks between 2002 and 2021, according to the U.S. Department of Transportation. Perhaps the most notable incident occurred in Satartia, Miss., in 2020 when a CO2 pipeline ruptured following heavy rains. The leak led to the hospitalization of 45 people and the evacuation of 200 residents... Under the EPA draft permit, California Resources Corp. must take a number of steps to mitigate these risks. The company must plug 157 wells to ensure the CO2 remains underground, monitor the injection site for leaks and obtain a $33-million insurance policy.
+      Canadian-based Brookfield Corporation also invested $500 million, according to the article, with California Resources Corp. seeking permits for five projects &amp;mdash; more than any company in the nation. "It's kind of reversing the role, if you will," says their chief sustainability officer. "Instead of taking oil and gas out, we're putting carbon in."
+
+      Meanwhile, there's applications for "about a dozen" more projects in California's Central Valley that could store millions of tons of carbon emissions in old oil and gas fields &amp;mdash; and California Resources Corp says greater Los Angeles is also "being evaluated" as a potential storage site.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Can+Pumping+CO2+Into+California's+Oil+Fields+Help+Stop+Global+Warming%3F%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F01%2F15%2F0218245%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F01%2F15%2F0218245%2Fcan-pumping-co2-into-californias-oil-fields-help-stop-global-warming%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/24/01/15/0218245/can-pumping-co2-into-californias-oil-fields-help-stop-global-warming?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193511&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-15T04:34:00+00:00</dc:date>
+    <dc:subject>earth</dc:subject>
+    <slash:department>opposite-of-emissions</slash:department>
+    <slash:section>news</slash:section>
+    <slash:comments>52</slash:comments>
+    <slash:hit_parade>52,51,44,38,16,6,4</slash:hit_parade>
+  </item>
+  <item rdf:about="https://hardware.slashdot.org/story/24/01/15/0124236/the-global-project-to-make-a-general-robotic-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>The Global Project To Make a General Robotic Brain</title>
+    <link>https://hardware.slashdot.org/story/24/01/15/0124236/the-global-project-to-make-a-general-robotic-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Generative AI "doesn't easily carry over into robotics," write two researchers in IEEE Spectrum, "because the Internet is not full of robotic-interaction data in the same way that it's full of text and images."
+
+      That's why they're working on a single deep neural network capable of piloting many different types of robots...
+
+      Robots need robot data to learn from, and this data is typically created slowly and tediously by researchers in laboratory environments for very specific tasks... The most impressive results typically only work in a single laboratory, on a single robot, and often involve only a handful of behaviors... [W]hat if we were to pool together the experiences of many robots, so a new robot could learn from all of them at once? We decided to give it a try. In 2023, our labs at Google and the University of California, Berkeley came together with 32 other robotics laboratories in North America, Europe, and Asia to undertake the RT-X project, with the goal of assembling data, resources, and code to make general-purpose robots a reality...
+
+      The question is whether a deep neural network trained on data from a sufficiently large number of different robots can learn to "drive" all of them &amp;mdash; even robots with very different appearances, physical properties, and capabilities. If so, this approach could potentially unlock the power of large datasets for robotic learning. The scale of this project is very large because it has to be. The RT-X dataset currently contains nearly a million robotic trials for 22 types of robots, including many of the most commonly used robotic arms on the market...
+
+      Surprisingly, we found that our multirobot data could be used with relatively simple machine-learning methods, provided that we follow the recipe of using large neural-network models with large datasets. Leveraging the same kinds of models used in current LLMs like ChatGPT, we were able to train robot-control algorithms that do not require any special features for cross-embodiment. Much like a person can drive a car or ride a bicycle using the same brain, a model trained on the RT-X dataset can simply recognize what kind of robot it's controlling from what it sees in the robot's own camera observations. If the robot's camera sees a UR10 industrial arm, the model sends commands appropriate to a UR10. If the model instead sees a low-cost WidowX hobbyist arm, the model moves it accordingly.
+
+      "To test the capabilities of our model, five of the laboratories involved in the RT-X collaboration each tested it in a head-to-head comparison against the best control system they had developed independently for their own robot... Remarkably, the single unified model provided improved performance over each laboratory's own best method, succeeding at the tasks about 50 percent more often on average." And they then used a pre-existing vision-language model to successfully add the ability to output robot actions in response to image-based prompts.
+
+      "The RT-X project shows what is possible when the robot-learning community acts together... and we hope that RT-X will grow into a collaborative effort to develop data standards, reusable models, and new techniques and algorithms."
+
+      Thanks to long-time Slashdot reader Futurepower(R) for sharing the article.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=The+Global+Project+To+Make+a+General+Robotic+Brain%3A+https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F24%2F01%2F15%2F0124236%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F24%2F01%2F15%2F0124236%2Fthe-global-project-to-make-a-general-robotic-brain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/24/01/15/0124236/the-global-project-to-make-a-general-robotic-brain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193475&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-15T01:27:00+00:00</dc:date>
+    <dc:subject>robot</dc:subject>
+    <slash:department>if-I-only-had-a-brain</slash:department>
+    <slash:section>hardware</slash:section>
+    <slash:comments>19</slash:comments>
+    <slash:hit_parade>19,19,19,15,5,2,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://science.slashdot.org/story/24/01/15/0028232/scientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Scientists Film Genetically-Altered Plants 'Talking' to Neighboring Plants With Biochemicals</title>
+    <link>https://science.slashdot.org/story/24/01/15/0028232/scientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>ScienceAlert reminds us that plants exude "a fine mist of airborne compounds that they use to communicate and protect themselves." And while they've been detected in over 80 plant species, now researchers have applied real-time imaging techniques "to reveal how plants receive and respond to these aerial alarms."
+
+      Yuri Aratani and Takuya Uemura, molecular biologists at Saitama University in Japan, and colleagues rigged up a pump to transfer compounds emitted by injured and insect-riddled plants onto their undamaged neighbors, and a fluorescence microscope to watch what happened. Caterpillars (Spodoptera litura) were set upon leaves cut from tomato plants and Arabidopsis thaliana, a common weed in the mustard family, and the researchers imaged the responses of a second, intact, insect-free Arabidopsis plant to those danger cues.
+
+      These plants weren't any ordinary weeds: they had been genetically altered so their cells contained a biosensor that fluoresced green when an influx of calcium ions was detected... [T]he team visualized how plants responded to being bathed in volatile compounds, which plants release within seconds of wounding. It wasn't a natural set-up; the compounds were concentrated in a plastic bottle and pumped onto the recipient plant at a constant rate, but this allowed the researchers to analyze what compounds were in the pungent mix...
+
+      [T]he undamaged plants received the messages of their injured neighbors loud and clear, responding with bursts of calcium signaling that rippled across their outstretched leaves... [G]uard cells generated calcium signals within a minute or so, after which mesophyll cells picked up the message... "We have finally unveiled the intricate story of when, where, and how plants respond to airborne 'warning messages' from their threatened neighbors," says Masatsugu Toyota, a molecular biologist at Saitama University in Japan and senior author of the study.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Film+Genetically-Altered+Plants+'Talking'+to+Neighboring+Plants+With+Biochemicals%3A+https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F15%2F0028232%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F15%2F0028232%2Fscientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/24/01/15/0028232/scientists-film-genetically-altered-plants-talking-to-neighboring-plants-with-biochemicals?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193435&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-15T00:29:00+00:00</dc:date>
+    <dc:subject>science</dc:subject>
+    <slash:department>pods-casting</slash:department>
+    <slash:section>science</slash:section>
+    <slash:comments>26</slash:comments>
+    <slash:hit_parade>26,23,22,17,2,1,1</slash:hit_parade>
+  </item>
+  <item rdf:about="https://slashdot.org/story/24/01/14/0145246/ask-slashdot-could-a-form-of-watermarking-prevent-ai-deep-faking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Ask Slashdot:  Could a Form of Watermarking Prevent AI Deep Faking?</title>
+    <link>https://slashdot.org/story/24/01/14/0145246/ask-slashdot-could-a-form-of-watermarking-prevent-ai-deep-faking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>An opinion piece in the Los Angeles Times imagines a world after "the largest coordinated deepfake attack in history... a steady flow of new deepfakes, mostly manufactured in Russia, North Korea, China and Iran."
+      The breakthrough actually came in early 2026 from a working group of digital journalists from U.S. and international news organizations. Their goal was to find a way to keep deepfakes out of news reports... Journalism organizations formed the FAC Alliance &amp;mdash; "Fact Authenticated Content" &amp;mdash; based on a simple insight: There was already far too much AI fakery loose in the world to try to enforce a watermarking system for dis- and misinformation. And even the strictest labeling rules would simply be ignored by bad actors. But it would be possible to watermark pieces of content that deepfakes.
+      And so was born the voluntary FACStamp on May 1, 2026...
+
+      The newest phones, tablets, cameras, recorders and desktop computers all include software that automatically inserts the FACStamp code into every piece of visual or audio content as it's captured, before any AI modification can be applied. This proves that the image, sound or video was not generated by AI. You can also download the FAC app, which does the same for older equipment... [T]o retain the FACStamp, your computer must be connected to the non-profit FAC Verification Center. The center's computers detect if the editing is minor &amp;mdash; such as cropping or even cosmetic face-tuning &amp;mdash; and the stamp remains. Any larger manipulation, from swapping faces to faking backgrounds, and the FACStamp vanishes.
+
+      It turned out that plenty of people could use the FACStamp. Internet retailers embraced FACStamps for videos and images of their products. Individuals soon followed, using FACStamps to sell goods online &amp;mdash; when potential buyers are judging a used pickup truck or secondhand sofa, it's reassuring to know that the image wasn't spun out or scrubbed up by AI.
+      The article envisions the world of 2028, with the authentication stamp appearing on everything from social media posts to dating app profiles:
+      Even the AI industry supports the use of FACStamps. During training runs on the internet, if an AI program absorbs excessive amounts of AI-generated rather than authentic data, it may undergo "model collapse" and become wildly inaccurate. So the FACStamp helps AI companies train their models solely on reality. A bipartisan group of senators and House members plans to introduce the Right to Reality Act when the next Congress opens in January 2029. It will mandate the use of FACStamps in multiple sectors, including local government, shopping sites and investment and real estate offerings. Counterfeiting a FACStamp would become a criminal offense. Polling indicates widespread public support for the act, and the FAC Alliance has already begun a branding campaign.
+
+      But all this leaves Slashdot reader Bruce66423 with a question. "Is it really technically possible to achieve such a clear distinction, or would, in practice, AI be able to replicate the necessary authentication?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A++Could+a+Form+of+Watermarking+Prevent+AI+Deep+Faking%3F%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F14%2F0145246%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F01%2F14%2F0145246%2Fask-slashdot-could-a-form-of-watermarking-prevent-ai-deep-faking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/24/01/14/0145246/ask-slashdot-could-a-form-of-watermarking-prevent-ai-deep-faking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23192597&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-14T23:09:00+00:00</dc:date>
+    <dc:subject>ai</dc:subject>
+    <slash:department>AI-authenticating</slash:department>
+    <slash:section>slashdot</slash:section>
+    <slash:comments>57</slash:comments>
+    <slash:hit_parade>57,57,52,48,17,10,6</slash:hit_parade>
+  </item>
+  <item rdf:about="https://yro.slashdot.org/story/24/01/14/2018257/python-software-foundation-says-eus-cyber-resilience-act-includes-wins-for-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Python Software Foundation Says EU's 'Cyber Resilience Act' Includes Wins for Open Source </title>
+    <link>https://yro.slashdot.org/story/24/01/14/2018257/python-software-foundation-says-eus-cyber-resilience-act-includes-wins-for-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Last April the Python Software Foundation warned that Europe's proposed Cyber Resilience Act jeopardized their organization and "the health of the open-source software community" with overly broad policies that "will unintentionally harm the users they are intended to protect."
+
+
+      They'd worried that the Python Software Foundation could incur financial liabilities just for hosting Python and its PyPI package repository due to the proposed law's attempts to penalize cybersecurity lapses all the way upstream. But a new blog post this week cites some improvements:
+
+      We asked for increased clarity, specifically:
+
+      "Language that specifically exempts public software repositories that are offered as a public good for the purpose of facilitating collaboration would make things much clearer. We'd also like to see our community, especially the hobbyists, individuals and other under-resourced entities who host packages on free public repositories like PyPI be exempt."
+
+      The good news is that CRA text changed a lot between the time the open source community &amp;mdash; including the PSF &amp;mdash; started expressing our concerns and the Act's final text which was cemented on December 1st. That text introduces the idea of an "open source steward."
+
+      "'open-source software steward' means any legal person, other than a manufacturer, which has the purpose or objective to systematically provide support on a sustained basis for the development of specific products with digital elements qualifying as free and open-source software that are intended for commercial activities, and ensures the viability of those products;" (p. 76)
+
+      [...] So are we totally done paying attention to European legislation? Ah, while it would be nice for the Python community to be able to cross a few things off our to-do list, that's not quite how it works. Firstly, the concept of an "open source steward" is a brand new idea in European law. So, we will be monitoring the conversation as this new concept is implemented or interacts with other bits of European law to make sure that the understanding continues to reflect the intent and the realities of open source development. Secondly, there are some other pieces of legislation in the works that may also impact the Python ecosystem so we will be watching the Product Liability Directive and keeping up with the discussion around standard-essential patents to make sure that the effects on Python and open source development are intentional (and hopefully benevolent, or at least benign.)
+
+      &lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Python+Software+Foundation+Says+EU's+'Cyber+Resilience+Act'+Includes+Wins+for+Open+Source+%3A+https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F01%2F14%2F2018257%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F24%2F01%2F14%2F2018257%2Fpython-software-foundation-says-eus-cyber-resilience-act-includes-wins-for-open-source%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/24/01/14/2018257/python-software-foundation-says-eus-cyber-resilience-act-includes-wins-for-open-source?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193259&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-14T20:34:00+00:00</dc:date>
+    <dc:subject>eu</dc:subject>
+    <slash:department>liking-legislation</slash:department>
+    <slash:section>yro</slash:section>
+    <slash:comments>17</slash:comments>
+    <slash:hit_parade>17,17,16,15,4,3,2</slash:hit_parade>
+  </item>
+  <item rdf:about="https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Linux Mint 21.3: Its First Official Release with Wayland Support</title>
+    <link>https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>Linux Mint 21.3 is now available to download, reports the blog OMG Obuntu.
+
+      It's the first version to offer Wayland support in its Cinnamon desktop:
+
+      Following a successful bout of bug-busting in last month's beta release, Mint devs have gone ahead and rubber-stamped a stable release. Thus, you can reasonably expect to not encounter any major issues when installing or using it... [I]t's based on Ubuntu 22.04 LTS and continues to use the Linux 5.15 kernel by default, but newer kernels are available to install within the OS...
+
+      In my own testing I find Cinnamon's Wayland support to be well-rounded. It's not perfect but I didn't hit any major snafus that prevented me from working (though admittedly I did only attempt 'basic' tasks like web browsing, playing music, and adding applets). However, Cinnamon's Wayland support is in an early state, is not enabled by default, and Linux Mint devs expect it won't be good enough for everyone until the 23.x series (due 2026) at the earliest. Still, try it out yourself and see if it works for you. Select the 'Cinnamon on Wayland (Experimental)' session from the login screen session selector, and then login as normal...
+
+      Additionally, the latest version of Mozilla Firefox is pre-installed (as a deb, not a Snap)
+
+
+      Among the new features are a whole new category of desktop add-ons &amp;mdash; "Actions" &amp;mdash; which upgrade the right-clicking context menu. (So for .iso files there's two new choices: "Verify" or "Make bootable USB stick".)
+
+      The article says there's also "a raft of smaller refinements," plus "a bevvy of buffs and embellishments" for Linux Mint's homegrown apps.
+
+      Any Linux Mint users reading Slashdot? Share your thoughts or experiences in the comments...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Linux+Mint+21.3%3A+Its+First+Official+Release+with+Wayland+Support%3A+https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F01%2F14%2F1830255%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F01%2F14%2F1830255%2Flinux-mint-213-its-first-official-release-with-wayland-support%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/24/01/14/1830255/linux-mint-213-its-first-official-release-with-wayland-support?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193187&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-14T19:34:00+00:00</dc:date>
+    <dc:subject>gui</dc:subject>
+    <slash:department>Minty-freshness</slash:department>
+    <slash:section>linux</slash:section>
+    <slash:comments>60</slash:comments>
+    <slash:hit_parade>60,59,52,49,18,7,4</slash:hit_parade>
+  </item>
+  <item rdf:about="https://it.slashdot.org/story/24/01/14/1735209/california-tech-companys-return-to-office-video-mocked-as-bizarre-cringe-worthy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>California Tech Company's 'Return-to-Office' Video Mocked as Bizarre, Cringe-Worthy</title>
+    <link>https://it.slashdot.org/story/24/01/14/1735209/california-tech-companys-return-to-office-video-mocked-as-bizarre-cringe-worthy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>With subsidiaries like WebMD and CarsDirect, the digital media company "Internet Brands" has over 5,000 employees &amp;mdash; and 20 offices in expensive locations like Seattle, San Francisco, Chicago, and New York City.
+      Their solution? Create a cheery corporate video on the company's Vimeo account announcing a new (non-negotiable) hybrid return-to-office policy.
+
+      SFGate.com calls it "the return-to-office fight's most bizarre corporate messaging yet."
+      Executives from Internet Brands' internet brands are so wide-eyed and declarative, they appear to be at their breaking point in wanting more workers at the office. "Too big of a group hasn't returned," CEO Bob Brisco complains, near the video's opening. The vehicle to deliver that message has it all: rapid jump cuts, odd sound mixing and executives clearly reading their lines from teleprompters. There's plainly faked office b-roll and the obvious use of green screens. There's even some enthusiastic (and awkward) sashaying to the New Orleans classic "Iko Iko" &amp;mdash; one wonders if participating employees received compensation.
+      Interestingly, "Iko Iko" is a song about a collision between two rival tribes, which opens with a threat to "set your flag on fire." But subtitles on the video translate the song's Creole patois word "Jockamo" into the corporate-positive phrase "we mean business."
+
+      It's like the executives started their brainstorming session by watching 12 music videos, an iMovie editing tutorial and the entirety of "The Office" Season 1. Mixed in with the corporate b-roll of a copy machine spitting out paper and a too-loud video of a hand crushing a Dr. Pepper can, the company's executives sketch out the vibe of a return-to-office plan &amp;mdash; though no specifics.
+      The video ends with CEO Bob Brisco thanking the team, before gently adding "I want to leave you with this. We aren't asking or negotiating at this point. We're informing, of how we need to work together going forward....
+      "Thank you, in advance, for your help."
+
+      The video has since started going viral on Reddit's "Work Reform" subreddit, with a headline calling it a "bizarre and cringe video mocking working from home and threatening employees who continue to avoid the office." (This take drew 1,300 upvotes, and 241 comments, like " 'By the way this is a threat' is a nice way to end it.")
+
+      Footage of at least some of the executives was clearly just spliced in front of still photos showing what offices look like. But besides the wooden delivery, what really struck me is how generic all the words were:
+
+      "Working together face-to-face helps us create ideas, faster, and better." "We're able to collaborate, and help each other to be better leaders."
+      "We're better when we're together, and we need to be our best &amp;mdash; to crush our competition." [Footage of the word "competition" being erased from a whiteboard. And then, of someone crushing a Dr. Pepper can...]&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=California+Tech+Company's+'Return-to-Office'+Video+Mocked+as+Bizarre%2C+Cringe-Worthy%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F01%2F14%2F1735209%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F24%2F01%2F14%2F1735209%2Fcalifornia-tech-companys-return-to-office-video-mocked-as-bizarre-cringe-worthy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/24/01/14/1735209/california-tech-companys-return-to-office-video-mocked-as-bizarre-cringe-worthy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23193147&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-14T18:34:00+00:00</dc:date>
+    <dc:subject>it</dc:subject>
+    <slash:department>Iko-Iko-all-day</slash:department>
+    <slash:section>it</slash:section>
+    <slash:comments>194</slash:comments>
+    <slash:hit_parade>194,191,176,163,41,20,16</slash:hit_parade>
+  </item>
+  <item rdf:about="https://science.slashdot.org/story/24/01/14/0435238/seeing-blue-at-night-may-not-be-whats-keeping-you-up-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+    <title>Seeing Blue At Night May Not Be What's Keeping You Up After All</title>
+    <link>https://science.slashdot.org/story/24/01/14/0435238/seeing-blue-at-night-may-not-be-whats-keeping-you-up-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+    <description>We already know that a precise range of wavelengths within daylight triggers a light-sensitive photoreceptor in the back of your eye, causing the body's internal clock to reset.
+
+      Those receptors are called "intrinsically photosensitive retinal ganglion cells" (or ipRGCs), according to Science Alert &amp;mdash; although the actual color is perceived by some nearby cones (which then send information back to those rceptors).
+      But are our bodies really affected specifically by the perceived color? Chronobiologist Christine Blume investigated with a team from Switzerland's University of Basel and Germany's Max Planck Institute for Biological Cybernetics:
+
+      Modern scientific wisdom advises us to avoid devices that emit a significant amount of blue radiance, such as our smartphones, computer monitors, and tablets, when we ought to be wrapping ourselves in darkness and resting. There's perfectly sound reasoning for this &amp;mdash; the ipRGCs in our eyes react to short wavelengths of electromagnetic radiation, roughly 490 nanometers in size... Given blue light scatters from the sky during daylight hours, it makes sense our eyes would use this wavelength as a cue to mark the beginning and end of sleep time...
+
+      Yet University of Basel chronobiologist Christine Blume had her suspicions that the way a light's mix of wavelengths influenced the color-reading cones could mean there's more to the phenomenon than meets the eye. "A study in mice in 2019 suggested that yellowish light has a stronger influence on the internal clock than bluish light," says Blume. To resolve whether the way cones perceive a range of wavelengths carries any weight in how the blue-triggered ipRGCs function, Blume and her team recruited eight healthy adult men and eight women in a 23-day-long experiment. After habituating to a specific bedtime for a week, the volunteers attended three visits to a lab where they were exposed to a constant controlled 'white' glow, a bright yellow, or dim blue light for one hour in the evening...
+
+      None of the analyses revealed any indication that the perceived color of the light affected the duration or quality of the volunteers' sleep patterns. Instead, all three light conditions caused a sleep delay, suggesting light in general has a more complicated impact than previously thought. That's not to say ipRGCs aren't affected by 'blue' wavelengths of light. Rather, white light that is packed with blue waves but stimulates cone cells into seeing yellows, reds, or purples could still affect our sleep cycles. Similarly, light that looks blue but isn't intense enough to provoke the ipRGCs into functioning might have little influence over our body's daily rhythms.
+
+      Phones of the future may one day allow us to switch into a night mode that we don't perceive in warmer tones.
+      Thanks to long-time Slashdot reader schwit1 for sharing the article.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+      &lt;a class="slashpop" href="http://twitter.com/home?status=Seeing+Blue+At+Night+May+Not+Be+What's+Keeping+You+Up+After+All%3A+https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F14%2F0435238%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+      &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F24%2F01%2F14%2F0435238%2Fseeing-blue-at-night-may-not-be-whats-keeping-you-up-after-all%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+      &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/24/01/14/0435238/seeing-blue-at-night-may-not-be-whats-keeping-you-up-after-all?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=23192737&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+    <dc:creator>EditorDavid</dc:creator>
+    <dc:date>2024-01-14T17:34:00+00:00</dc:date>
+    <dc:subject>science</dc:subject>
+    <slash:department>light-sleepers</slash:department>
+    <slash:section>science</slash:section>
+    <slash:comments>48</slash:comments>
+    <slash:hit_parade>48,46,37,30,6,2,0</slash:hit_parade>
+  </item>
+  <textinput rdf:about="https://slashdot.org/search.pl">
+    <title>Search Slashdot</title>
+    <description>Search Slashdot stories</description>
+    <name>query</name>
+    <link>https://slashdot.org/search.pl</link>
+  </textinput>
+</rdf:RDF>
+
