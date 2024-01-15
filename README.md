@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Setup Instructons
+1. Clone git repository
+2. Navigate to the directory
+  - `cd rssarticlereader`
+3. Run the following commands to set up the database
+  - `rails db:migrate`
+  - `rails db:seed`
+4. Start the server locally
+  - `rails s`
+5. Navigate to http://localhost:3000
