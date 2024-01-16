@@ -8,7 +8,7 @@
 4. Run the following commands to set up the database
   - `rails db:create`
   - `rails db:migrate`
-  - `rails db:seed`
+  - `rails db:seed` - this command is responsible for calling the rss api https://rss.slashdot.org/Slashdot/slashdotMain and loading the database.
 4. Start the server locally
   - `rails s`
 5. Navigate to http://localhost:3000
