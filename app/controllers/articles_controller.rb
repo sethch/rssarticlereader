@@ -21,10 +21,6 @@ class ArticlesController < ApplicationController
   end
 
   def update_read_status
-    if @article.nil?
-      render json: { error: 'Article not found' }, status: :not_found
-      return
-    end
     read_status = JSON.parse(request.raw_post)['read_status']
 
     if @article.update(read_status: read_status)

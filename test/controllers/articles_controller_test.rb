@@ -45,4 +45,12 @@ class ArticlesControllerTest < ActionDispatch::IntegrationTest
 
     assert_redirected_to articles_url
   end
+
+  test "should update read status" do
+    patch update_read_status_article_path(@article), params: { read_status: true }.to_json, headers: { 'Content-Type' => 'application/json' }
+
+    assert_response :success
+    assert_equal({ 'message' => 'Read status updated successfully' }, JSON.parse(response.body))
+    assert_equal(true, @article.reload.read_status)
+  end
 end
