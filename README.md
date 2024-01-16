@@ -13,6 +13,9 @@
   - `rails s`
 5. Navigate to http://localhost:3000
 
+## Tests
+1. `rails test`
+
 ## Assumptions / Decisions
 1. Retrieving Rss feed info only once at database setup, not reloading/refreshing on each server start or page load.
 2. Some fields less important to show on UI (e.g. subject)
