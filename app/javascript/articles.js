@@ -6,8 +6,6 @@ function updateReadStatus(articleId, checked) {
         type: 'PATCH',
         data: JSON.stringify({ read_status: checked }),
         contentType: 'application/json',
-        // success: data => console.log(data),
-        // error: error => console.error(error)
     });
 }
 
@@ -19,11 +17,9 @@ function toggleReadArticlesSwitch() {
     var showReadArticlesParam = getParameterByName('showReadArticles');
     var showReadArticlesValue = showReadArticlesParam === 'true' ? 'false' : 'true';
 
-    // Modify the URL with the updated parameter value
     var currentUrl = window.location.href;
     var updatedUrl = updateQueryStringParameter(currentUrl, 'showReadArticles', showReadArticlesValue);
 
-    // Redirect to the updated URL
     window.location.href = updatedUrl;
 }
 
